@@ -2,7 +2,7 @@
 
 MS Quantitative Finance candidate (graduating December 2026) 
 
-📬 cwacker@fordham.edu · [ORCID](https://orcid.org/0009-0009-0129-0912) · [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+📬 cwacker@fordham.edu · [ORCID](https://orcid.org/0009-0009-0129-0912) · [LinkedIn](https://www.linkedin.com/in/ciara-mary-wacker-b842781bb/)
 
 ---
 
