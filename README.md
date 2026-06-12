@@ -23,13 +23,16 @@ I research quantitative signals and market structure — currently focused on al
 
 ## Featured Projects
 
+**Research series — Narrative Dominance and Belief-Driven Mispricing** ([SSRN](https://ssrn.com/abstract=6029394)): an empirical paper extended by an HMM-based regime detector and an agent-based contagion model.
+
 | Project | Description |
 |---|---|
+| [narrative-regime-mispricing](https://github.com/ciaramary13/narrative-regime-mispricing) | *Series 1/3* — Empirical paper: narrative-driven regime classification and forward HML predictability |
+| [regime-detection](https://github.com/ciaramary13/regime-detection) | *Series 2/3* — Endogenous HMM regime detection; validates and stress-tests the paper's findings |
+| [narrative-contagion-model](https://github.com/ciaramary13/narrative-contagion-model) | *Series 3/3* — Agent-based SIRS epidemic model of financial narrative spread and mispricing |
 | [alpha-lifecycle-tracker](https://github.com/ciaramary13/alpha-lifecycle-tracker) | Quantitative framework tracking alpha signal decay from discovery through crowding |
-| [narrative-contagion-model](https://github.com/ciaramary13/narrative-contagion-model) | Agent-based SIRS epidemic model applied to financial narrative spread and mispricing detection |
 | [pairs-trading-regime-filtered](https://github.com/ciaramary13/pairs-trading-regime-filtered) | Regime-filtered statistical arbitrage using cointegration and OU half-life |
 | [regime-conditional-factor-loadings](https://github.com/ciaramary13/regime-conditional-factor-loadings) | Fama-French 5-factor loadings for S&P 500 ETFs using HMM regime detection (2000–2024) |
-| [regime-detection](https://github.com/ciaramary13/regime-detection) | Market regime identification framework |
 
 ---
 
